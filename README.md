@@ -39,7 +39,7 @@ CNAME        Dominio propio para GitHub Pages: www.asesoriasocialrga.cl
   predefinido en el parámetro `text=`. Busca `56942710560` para encontrarlos todos.
 - **Correo:** aparece en 2 lugares (busca `info@asesoriasocialrga.cl`).
 - **Servicios:** cada ámbito es una tarjeta dentro de `<section id="servicios">`.
-- **Año del pie de página:** está escrito a mano (`© 2025`).
+- **Año del pie de página:** está escrito a mano (`© 2026`).
 - **Descripción para buscadores:** `<meta name="description">` al inicio del archivo.
 
 ## Publicar cambios
